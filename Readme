@@ -1,0 +1,2 @@
+JS File
+Feature: It runs CLI commands like show ip service and show aaa authentication, then uses JavaScript logic to analyze the results.
