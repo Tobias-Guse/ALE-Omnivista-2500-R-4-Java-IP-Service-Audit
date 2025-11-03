@@ -1,2 +1,3 @@
 JS File
+Setup: OV 2500; OmniSwitch 8.10R03
 Feature: It runs CLI commands like show ip service and show aaa authentication, then uses JavaScript logic to analyze the results.
